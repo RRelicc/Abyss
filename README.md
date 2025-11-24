@@ -255,11 +255,13 @@ In the second half of the talk, the focus shifts to Benthic, the framework dedic
 DEF CON 33 was the perfect place to conclude this stage of the project. But the road here was long. The core research behind both Abyss and Benthic was slowly shaped over the years, with many of their components publicly explored in my previous talks.
 
 <p align="center">
-	<a href="" target="_blank">
-		<img src="Cybersecurity Conferences/DEFCON 33/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
+	<a href="https://www.youtube.com/watch?v=iS0XJVyxA3M" target="_blank">
+		<img src="03 Cybersecurity Conferences/DEFCON 33/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
 	</a>
 	<br>
-	<em>Watch the full DEF CON 33 presentation on YouTube (coming soon)</em>
+	<em>
+		<a href="https://www.youtube.com/watch?v=iS0XJVyxA3M" target="_blank">Watch the full DEF CON 33 presentation on YouTube</a>
+	</em>
 </p>
 
 
