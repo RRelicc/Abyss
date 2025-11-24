@@ -15,7 +15,9 @@ My first-ever public talk, where I introduced how to build a basic UEFI bootkit.
 		<img width="800px" src="2024 RootedCON Madrid/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
 	</a>
 	<br>
-	<em>Watch the full presentation on my YouTube channel</em>
+	<em>
+		<a href="https://www.youtube.com/watch?v=NfhVqgiJSs4" target="_blank">Watch the full presentation on my YouTube channel</a>
+	</em>
 </p>
 
 ### **🎙️ ViCONgal 2024**
@@ -29,7 +31,9 @@ This presentation expanded upon the RootedCON content by exploring bootkit archi
 		<img width="800px" src="2024 ViCONgal/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
 	</a>
 	<br>
-	<em>Watch the full presentation on my YouTube channel</em>
+	<em>
+		<a href="https://www.youtube.com/watch?v=cDqh6LMlja4" target="_blank">Watch the full presentation on my YouTube channel</a>
+	</em>
 </p>
 
 ### **🎙️ Cybersecurity Day 2024**
@@ -43,5 +47,7 @@ Focused on real-world scenarios where attackers compromise firmware to gain earl
 		<img width="800px" src="2024 Cybersecurity Day/Presentation/Images/Illustrations/Front_Page.png" alt="Click to watch the video">
 	</a>
 	<br>
-	<em>Watch the full presentation on "Campus de Ciberseguridad" YouTube channel</em>
+	<em>
+		<a href="https://youtu.be/D42curt8Xts?t=11121" target="_blank">Watch the full presentation on "Campus de Ciberseguridad" YouTube channel</a>
+	</em>
 </p>
